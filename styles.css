@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+body{
+    background-color: black;
+}
+
+h2, h3{
+    color: white;
+}
+
+.box-pokemon-fight{
+    display: flex;
+    justify-content: space-around;
+}
+
+.box-pv-pe, .box-pv-pe-enemy{
+    display: flex;
+    justify-content: space-around;
+}
+
+.box-fight-menu{
+    color: white;
+    display: flex;
+    justify-content: space-around;   
+}
